@@ -2,6 +2,7 @@ Docker Fundamentals WebApp
 ==========================
 
 The Docker Fundamentals repository contains the example Hello World Python WebApp
+Getting deployed to Docker through Jenkins after test now
 
 ## License
 
